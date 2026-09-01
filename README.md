@@ -24,6 +24,7 @@ HoneyAI/
 │
 ├── Day_1_Python_Basics/
 │   └── Python fundamentals and basic programming concepts
+      └── variable.py
 │
 ├── Day_2_Control_Flow/
 │   └── Conditional statements and loops
